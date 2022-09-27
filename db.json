@@ -49,6 +49,51 @@
       "id": 10,
       "title": "Заголовок",
       "url": "./img/island.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Заголовок",
+      "url": "./img/mountainsplusforest.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Заголовок",
+      "url": "./img/ourbedroom.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Заголовок",
+      "url": "./img/sky.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Заголовок",
+      "url": "./img/skystars.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Заголовок",
+      "url": "./img/spiders.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Заголовок",
+      "url": "./img/underground.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Заголовок",
+      "url": "./img/walk.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Заголовок",
+      "url": "./img/volcano.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Заголовок",
+      "url": "./img/tweenpeaks.jpg"
     }
   ]
 }
