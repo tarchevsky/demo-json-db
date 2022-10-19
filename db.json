@@ -95,5 +95,102 @@
       "title": "Заголовок",
       "url": "./img/tweenpeaks.jpg"
     }
+  ],
+  "postsUrl": [
+    {
+      "id": 1,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 2,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 3,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 4,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 5,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 6,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 7,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 8,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 9,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 10,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 11,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 12,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 13,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 14,
+      "title": "Заголовок",
+      "url": ".https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 15,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 16,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 17,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 18,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    },
+    {
+      "id": 19,
+      "title": "Заголовок",
+      "url": "https://randart.ru/art/classics20s/kartinki/"
+    }
   ]
 }
