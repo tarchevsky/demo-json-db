@@ -193,9 +193,11 @@
       "url": "https://randart.ru/art/classics20s/kartinki/"
     }
   ],
-  "koniduniPictures": [
-    "id": 1,
-    "title": "Беня, невероятно прыткий арабский жеребец",
-    "url":, "./img/benedict.jpg",
+  "horses": [
+    {
+      "id": 1,
+      "title": "Беня, невероятно прыткий арабский жеребец",
+      "url": "./img/benedict.jpg"
+    }
   ]
 }
