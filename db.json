@@ -165,7 +165,7 @@
     {
       "id": 14,
       "title": "Заголовок",
-      "url": ".https://randart.ru/art/classics20s/kartinki/"
+      "url": "https://randart.ru/art/classics20s/kartinki/"
     },
     {
       "id": 15,
@@ -192,5 +192,10 @@
       "title": "Заголовок",
       "url": "https://randart.ru/art/classics20s/kartinki/"
     }
+  ],
+  "koniduniPictures": [
+    "id": 1,
+    "title": "Беня, невероятно прыткий арабский жеребец",
+    "url":, "./img/benedict.jpg",
   ]
 }
