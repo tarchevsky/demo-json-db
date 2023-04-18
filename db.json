@@ -3,190 +3,97 @@
     {
       "id": 1,
       "title": "Заголовок",
-      "url": "./img/beach.webp"
+      "url": "./img/beach.jpg"
     },
     {
       "id": 2,
       "title": "Заголовок",
-      "url": "./img/bridge.webp"
+      "url": "./img/bridge.jpg"
     },
     {
       "id": 3,
       "title": "Заголовок",
-      "url": "./img/bed.webp"
+      "url": "./img/bed.jpg"
     },
     {
       "id": 4,
       "title": "Заголовок",
-      "url": "./img/fall.webp"
+      "url": "./img/fall.jpg"
     },
     {
       "id": 5,
       "title": "Заголовок",
-      "url": "./img/forest.webp"
+      "url": "./img/forest.jpg"
     },
     {
       "id": 6,
       "title": "Заголовок",
-      "url": "./img/forest-2.webp"
+      "url": "./img/forest-2.jpg"
     },
     {
       "id": 7,
       "title": "Заголовок",
-      "url": "./img/forestplusroad.webp"
+      "url": "./img/forestplusroad.jpg"
     },
     {
       "id": 8,
       "title": "Заголовок",
-      "url": "./img/forestplussun.webp"
+      "url": "./img/forestplussun.jpg"
     },
     {
       "id": 9,
       "title": "Заголовок",
-      "url": "./img/homesweethome.webp"
+      "url": "./img/homesweethome.jpg"
     },
     {
       "id": 10,
       "title": "Заголовок",
-      "url": "./img/island.webp"
+      "url": "./img/island.jpg"
     },
     {
       "id": 11,
       "title": "Заголовок",
-      "url": "./img/mountainsplusforest.webp"
+      "url": "./img/mountainsplusforest.jpg"
     },
     {
       "id": 12,
       "title": "Заголовок",
-      "url": "./img/ourbedroom.webp"
+      "url": "./img/ourbedroom.jpg"
     },
     {
       "id": 13,
       "title": "Заголовок",
-      "url": "./img/sky.webp"
+      "url": "./img/sky.jpg"
     },
     {
       "id": 14,
       "title": "Заголовок",
-      "url": "./img/skystars.webp"
+      "url": "./img/skystars.jpg"
     },
     {
       "id": 15,
       "title": "Заголовок",
-      "url": "./img/spiders.webp"
+      "url": "./img/spiders.jpg"
     },
     {
       "id": 16,
       "title": "Заголовок",
-      "url": "./img/underground.webp"
+      "url": "./img/underground.jpg"
     },
     {
       "id": 17,
       "title": "Заголовок",
-      "url": "./img/walk.webp"
+      "url": "./img/walk.jpg"
     },
     {
       "id": 18,
       "title": "Заголовок",
-      "url": "./img/volcano.webp"
+      "url": "./img/volcano.jpg"
     },
     {
       "id": 19,
       "title": "Заголовок",
-      "url": "./img/tweenpeaks.webp"
-    }
-  ],
-  "postsUrl": [
-    {
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 5,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 6,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 7,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 8,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 9,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 10,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 11,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 12,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 13,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 14,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 15,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 16,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 17,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 18,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
-    },
-    {
-      "id": 19,
-      "title": "Заголовок",
-      "url": "https://randart.ru/art/classics20s/kartinki/"
+      "url": "./img/tweenpeaks.jpg"
     }
   ]
 }
